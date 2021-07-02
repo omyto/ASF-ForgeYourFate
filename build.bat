@@ -1,0 +1,1 @@
+dotnet publish ASF-ForgeYourFate -c "Release" -f "net5.0" -o "out/net5.0" "/p:LinkDuringPublish=false"
